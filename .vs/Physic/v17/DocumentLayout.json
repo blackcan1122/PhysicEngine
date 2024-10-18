@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\Documents\\Physic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\private\\SandboxMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\private\\SandboxMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\private\\EventDispatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\private\\EventDispatcher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\public\\GameMode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\public\\GameMode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\private\\PongGameMod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\private\\PongGameMod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\private\\GameMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\private\\GameMode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\private\\GameInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\private\\GameInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\public\\GameInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\public\\GameInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\public\\EventDispatcher.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\public\\EventDispatcher.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\private\\DispatcherEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\private\\DispatcherEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\public\\TickAll.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\public\\TickAll.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|C:\\Users\\marce\\Documents\\Physic\\src\\public\\Helper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75FC19CA-619E-44A0-4A59-58F4369ACBF0}|build\\build_files\\Physic.vcxproj|solutionrelative:src\\public\\Helper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SandboxMode.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\SandboxMode.cpp",
+              "RelativeDocumentMoniker": "src\\private\\SandboxMode.cpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\SandboxMode.cpp",
+              "RelativeToolTip": "src\\private\\SandboxMode.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:20:50.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameMode.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\GameMode.cpp",
+              "RelativeDocumentMoniker": "src\\private\\GameMode.cpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\GameMode.cpp",
+              "RelativeToolTip": "src\\private\\GameMode.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:20:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameInstance.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\GameInstance.cpp",
+              "RelativeDocumentMoniker": "src\\private\\GameInstance.cpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\GameInstance.cpp",
+              "RelativeToolTip": "src\\private\\GameInstance.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:20:17.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameInstance.h",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\GameInstance.h",
+              "RelativeDocumentMoniker": "src\\public\\GameInstance.h",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\GameInstance.h",
+              "RelativeToolTip": "src\\public\\GameInstance.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-18T19:20:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDispatcher.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\EventDispatcher.cpp",
+              "RelativeDocumentMoniker": "src\\private\\EventDispatcher.cpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\EventDispatcher.cpp",
+              "RelativeToolTip": "src\\private\\EventDispatcher.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:19:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDispatcher.hpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\EventDispatcher.hpp",
+              "RelativeDocumentMoniker": "src\\public\\EventDispatcher.hpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\EventDispatcher.hpp",
+              "RelativeToolTip": "src\\public\\EventDispatcher.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-18T19:19:42.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DispatcherEvent.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\DispatcherEvent.cpp",
+              "RelativeDocumentMoniker": "src\\private\\DispatcherEvent.cpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\DispatcherEvent.cpp",
+              "RelativeToolTip": "src\\private\\DispatcherEvent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:19:38.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TickAll.h",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\TickAll.h",
+              "RelativeDocumentMoniker": "src\\public\\TickAll.h",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\TickAll.h",
+              "RelativeToolTip": "src\\public\\TickAll.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-18T19:19:14.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Helper.hpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\Helper.hpp",
+              "RelativeDocumentMoniker": "src\\public\\Helper.hpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\Helper.hpp",
+              "RelativeToolTip": "src\\public\\Helper.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-18T19:11:08.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PongGameMod.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\PongGameMod.cpp",
+              "RelativeDocumentMoniker": "src\\private\\PongGameMod.cpp",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\private\\PongGameMod.cpp",
+              "RelativeToolTip": "src\\private\\PongGameMod.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T19:01:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameMode.h",
+              "DocumentMoniker": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\GameMode.h",
+              "RelativeDocumentMoniker": "src\\public\\GameMode.h",
+              "ToolTip": "C:\\Users\\marce\\Documents\\Physic\\src\\public\\GameMode.h",
+              "RelativeToolTip": "src\\public\\GameMode.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-18T18:59:49.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
